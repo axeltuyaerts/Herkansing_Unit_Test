@@ -1,6 +1,6 @@
 # Herkansing Unittesting/TDD 2023-2024
 
-## Oefening 1 (10 punten)
+## Oefening 1 (15 punten)
 In src/main/java/mastermind staat een class Checker
 - Schrijf voor deze class de unittests.
 - Refactor de functies getColor en hasColor
@@ -11,7 +11,7 @@ In src/main/java/mastermind staat een class Checker
   - Als het resultaat bijvoorbeeld ZWWZ is, dan moet dit WWZZ worden
 - Fix de bug: Wanneer de code een dubbele kleur bevat, is het resultaat mogelijk fout. Dubbele codes zijn daarom niet toegelaten, zowel voor de code als voor de gok (guess).
 
-## Oefening 2 (20 punten)
+## Oefening 2 (25 punten)
 In een hotel kan een klant online reserveren.
 * De klant kan **een of meerdere kamers** boeken, er zijn 3 verschillende kamertypes:
     * Standard: 200 EUR per nacht
