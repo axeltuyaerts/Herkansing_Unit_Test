@@ -4,7 +4,7 @@
 In src/main/java/mastermind staat een class Checker
 - Schrijf voor deze class de unittests.
 - Refactor de functies getColor en hasColor
-  - verplaats ze naar de class Color 
+  - verplaats ze naar de class Four 
   - zorg dat alles blijft werken
   - vergeet de testen niet!
 - Fix de bug: In het resultaat moeten de zwarte en witte vakjes bij elkaar gegroepeerd staan, niet door elkaar. 
